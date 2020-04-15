@@ -9,7 +9,9 @@ Birinchi bosqichdan keyin o‘tiladi. Taxminan 10-12 haftaga mo‘ljallangan, ag
 Yakuniy sinov har uch oyda o‘tkaziladi. Navbatdagisida qatnashishga ariza berish uchun ikkala bosqichni muvaffaqiyatli o‘tgahttps://github.com/maxammadjon95/OMUC_Android_FAQ_uz/wikin bo‘lishingiz zarur. Agar biror sababga ko‘ra navbatdagi yakuniy sinovga tayyorlanish uchun vaqtingiz bo‘lmagan bo‘lsa, faqat navbatdagidan keyingi yakuniy sinovda qatnashishga imkoniyatingiz bo‘ladi. E’tibor bering: yakuniy sinovda faqat bitta urinish beriladi va eng yuqori baho olgan 0.1 foiz talabalar Nanodegree dasturiga saralab olinadi.
 ## Ro'yxatdan qanday o'tiladi?
 Ro’yxatdan o’tish uchun uzbekcoders.uz saytiga tashrif buyuring.
+
 Sizda ro’yxatdan o’tish bo’yicha savol tug’ildimi? Unda marhamat, ushbu videdarsni ko’ring va ro’yxatdan muammosiz o’ting: https://youtu.be/A0dxyrGvGqA 
+
 Darslarni boshlash uchun marhamat, ushbu videdarsni ko’ring: https://youtu.be/HwevNs2MOLY 
 
 ## Android studio qanday o'rnatiladi?
@@ -19,6 +21,7 @@ Darslarni boshlash uchun marhamat, ushbu videdarsni ko’ring: https://youtu.be/
 
 ### Kod yozishni qanday boshlayman?
 Sinfxonaga o'ting hamda darslarni qunt bilan ko'rib chiqishingiz tavsiya qilinadi. 
+
 Qolaversa Android dasturchilari uchun https://developer.android.com saytida dasturlash hujjatlari keltirilgan. Ular bilan tanishib chiqib bilimlaringizni oshirishingiz mumkin.
 
 
@@ -51,4 +54,5 @@ Gradle dagi xatoni birinchi o’rinda internetni yoqib qayta sync qilish orqali 
  
 ## Foydali manbalar
 Umumiy Androidda dasturlash hujjatlari bilan tanishish - https://developer.android.com
+
 Material dizayn qilish - https://material.io/develop/android/
