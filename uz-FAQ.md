@@ -51,8 +51,14 @@ APK hosil bo'lgandan so'ng _Locate_ ga bossangiz sizning APK faylingiz turgan pa
 
 ### Gradleda oshibka beryapti, nima qilsam bo’ladi?
 Gradle dagi xatoni birinchi o’rinda internetni yoqib qayta sync qilish orqali yo’qotish mumkin. Bunda Gradle Offline rejimga tushib qolmaganligiga e’tibor bering, uni tekshirish uchun File-> Settings -> Build, Execution, Deployment -> Gradle -> Offline work belgilanib qolmaganiga ahamiyat bering!
- 
+
+## Videodarslar
+Youtubeda to'liq videokurs - https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe
+
+
 ## Foydali manbalar
 Umumiy Androidda dasturlash hujjatlari bilan tanishish - https://developer.android.com
 
 Material dizayn qilish - https://material.io/develop/android/
+
+Dunyodagi dasturchilar bilan savol-javob qilish forumi - https://stackoverflow.com/
