@@ -6,7 +6,7 @@ Ikki haftaga mo‘ljallangan, agar ko‘proq vaqt kerak bo‘lsa, ushbu bosqichn
 ### 2-bosqich:
 Birinchi bosqichdan keyin o‘tiladi. Taxminan 10-12 haftaga mo‘ljallangan, agar Sizga ko‘proq vaqt kerak bo‘lsa, keyingi uch oy ham (bugundan boshlab jami 6 oy) shug‘ullanishingiz mumkin bo‘ladi, biroq yakuniy sinovda qatnashish uchun ushbu bosqichni birinchi uch oyda yakunlashga harakat qilishinigizni tavsiya qilamiz! Ushbu bosqich yakunida Certificate of Completion - Bitiruv Sertifikati beriladi.
 ### Yakuniy sinov:
-Yakuniy sinov har uch oyda o‘tkaziladi. Navbatdagisida qatnashishga ariza berish uchun ikkala bosqichni muvaffaqiyatli o‘tgahttps://github.com/maxammadjon95/OMUC_Android_FAQ_uz/wikin bo‘lishingiz zarur. Agar biror sababga ko‘ra navbatdagi yakuniy sinovga tayyorlanish uchun vaqtingiz bo‘lmagan bo‘lsa, faqat navbatdagidan keyingi yakuniy sinovda qatnashishga imkoniyatingiz bo‘ladi. E’tibor bering: yakuniy sinovda faqat bitta urinish beriladi va eng yuqori baho olgan 0.1 foiz talabalar Nanodegree dasturiga saralab olinadi.
+Yakuniy sinov har uch oyda o‘tkaziladi. Navbatdagisida qatnashishga ariza berish uchun ikkala bosqichni muvaffaqiyatli o‘tgan bo‘lishingiz zarur. Agar biror sababga ko‘ra navbatdagi yakuniy sinovga tayyorlanish uchun vaqtingiz bo‘lmagan bo‘lsa, faqat navbatdagidan keyingi yakuniy sinovda qatnashishga imkoniyatingiz bo‘ladi. E’tibor bering: yakuniy sinovda faqat bitta urinish beriladi va eng yuqori baho olgan 0.1 foiz talabalar Nanodegree dasturiga saralab olinadi.
 ## Ro'yxatdan qanday o'tiladi?
 Ro’yxatdan o’tish uchun uzbekcoders.uz saytiga tashrif buyuring.
 
