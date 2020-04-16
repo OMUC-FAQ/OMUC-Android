@@ -52,6 +52,29 @@ APK hosil bo'lgandan so'ng _Locate_ ga bossangiz sizning APK faylingiz turgan pa
 ### Gradleda oshibka beryapti, nima qilsam bo’ladi?
 Gradle dagi xatoni birinchi o’rinda internetni yoqib qayta sync qilish orqali yo’qotish mumkin. Bunda Gradle Offline rejimga tushib qolmaganligiga e’tibor bering, uni tekshirish uchun File-> Settings -> Build, Execution, Deployment -> Gradle -> Offline work belgilanib qolmaganiga ahamiyat bering!
 
+<div>
+    <h2>Chatga kod fragmentlarini yuborish!</h2>
+    <p>Kodni rasmini yoki skrinshot yuborish <b>yaxshi qabul qilinmaydi!</b></p>
+    <p>Kod fragmentlari katta miqdorda bo'lmasa '`' (backtick, ruscha klaviaturada 'ё' harfi, 1 sonini chap tomonida) orqali yuborish kerak.</p>
+    <p>Bir qator kod fragmenti uchun:<p>
+    <code><b>`source code example`</b></code>
+    <p>Ko'p qatorli (10 qatorgacha) kod fragmenti uchun:<p>
+    <code><b>```<br>
+        source<br>
+        &nbsp;&nbsp;code<br>
+        &nbsp;&nbsp;&nbsp;example<br>
+        ```</b>
+    </code>
+    <p>Agar 10 qatordan ko'proq kod fragmentini jo'natmoqchi bo'lsangiz quyidagilardan foydalaning:</p>
+    <ul>
+        <li><a href = "https://gist.github.com/">GitHub Gist</a></li>
+        <li><a href = "https://paste.centos.org/">Fedora Pastebin</a></li>
+        <li><a href = "https://t.me/SimplePasteBot">Hastebin Telegram Bot</a></li>
+    </ul>
+    <h2>Takliflar</h2>
+    <p>Boshqa resurs yoki takliflar bo'lsa, <a href="https://t.me/illus11on">guruh moderatori</a> bilan aloqaga chiqing.</p>
+</div>
+
 ## Videodarslar
 Youtubeda to'liq videokurs - https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe
 
