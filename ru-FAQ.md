@@ -63,7 +63,7 @@ Siz tuzgan mobil ilovangizni tekshirib ko’rmoqchi bo’lsangiz
 Полный видеокурс на YouTube - https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe
 
 
-## Foydali manbalar
+## Полезные ресурсы
 Познакомьтесь с общими документами по программированию Android - https://developer.android.com
 
 Материальный дизайн - https://material.io/develop/android/
