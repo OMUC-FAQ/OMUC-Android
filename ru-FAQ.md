@@ -34,9 +34,6 @@
 
 Также есть документация по программированию для разработчиков Android на https://developer.android.com.
 
-### Tuzilayotgan mobil ilovani qanday qilib tekshirib ko'rsam bo'ladi?
-Siz tuzgan mobil ilovangizni tekshirib ko’rmoqchi bo’lsangiz
-
 <div>
     <h2>Отправка фрагментов кода в чат!</h2>
     <p>Не приветствуются скриншоты кода.</p>
