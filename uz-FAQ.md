@@ -49,7 +49,7 @@ Endi Siz mobil ilova tuzishingiz mumkin.
 Ilovani boshqalar bilan baham ko’rish uchun yoki shunchaki APK qilib chiqarishni xohlasangiz Build->Build APK ga bosing
 APK hosil bo'lgandan so'ng _Locate_ ga bossangiz sizning APK faylingiz turgan papkani ochib ko’rsatadi.
 
-### Gradleda oshibka beryapti, nima qilsam bo’ladi?
+### Gradleda xatolik beryapti, nima qilsam bo’ladi?
 Gradle dagi xatoni birinchi o’rinda internetni yoqib qayta sync qilish orqali yo’qotish mumkin. Bunda Gradle Offline rejimga tushib qolmaganligiga e’tibor bering, uni tekshirish uchun File-> Settings -> Build, Execution, Deployment -> Gradle -> Offline work belgilanib qolmaganiga ahamiyat bering!
 
 <div>
