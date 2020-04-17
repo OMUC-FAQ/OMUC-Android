@@ -71,10 +71,7 @@ Gradle dagi xatoni birinchi o’rinda internetni yoqib qayta sync qilish orqali 
         <li><a href = "https://paste.centos.org/">Fedora Pastebin</a></li>
         <li><a href = "https://t.me/SimplePasteBot">Hastebin Telegram Bot</a></li>
     </ul>
-    <h2>Takliflar</h2>
-    <p>Boshqa resurs yoki takliflar bo'lsa, <a href="https://t.me/illus11on">guruh moderatori</a> bilan aloqaga chiqing.</p>
-</div>
-
+    
 ## Videodarslar
 Youtubeda to'liq videokurs - https://www.youtube.com/watch?v=roDz8mMvbIg&list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe
 
